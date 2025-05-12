@@ -4,18 +4,18 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Anthony César Carvalho Santos
+- Matricula: 884458
+- Proposta de projeto escolhida: Site de receitas
+- Breve descrição sobre seu projeto: Receitas medievais
 
 **Print do teste da API com visualização do JSON**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![json](./public/imgs/json.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![fetch](./public/imgs/fetch.png)
 
 ## **Orientações Gerais**
 

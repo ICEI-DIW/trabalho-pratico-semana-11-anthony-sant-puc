@@ -1,18 +1,85 @@
 {
-  "usuarios": [
+  "receitas": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 1,
+      "titulo": "Ensopado de Carne",
+      "descricao": "Um prato robusto e saboroso, perfeito para aquecer nos dias mais frios. Feito com carne macia, legumes e temperos aromáticos, criando um caldo rico e reconfortante.",
+      "categoria": "Carnes",
+      "data": "02/03/25",
+      "ingredientes": [
+        "1 kg de carne bovina (corte de sua preferência, como acém ou músculo)",
+        "2 litros de caldo de carne",
+        "2 cebolas grandes picadas",
+        "4 dentes de alho picados",
+        "3 cenouras cortadas em rodelas",
+        "2 nabos cortados em cubos",
+        "1 talo de aipo picado",
+        "2 colheres de sopa de azeite de oliva",
+        "1 colher de chá de pimenta preta moída",
+        "1 colher de chá de cominho em pó",
+        "2 folhas de louro",
+        "Sal a gosto",
+        "Ervas frescas (como tomilho e salsa) para temperar"
+      ]
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 2,
+      "titulo": "Sopa de Legumes e Cevada",
+      "descricao": "Esta sopa é uma refeição completa e nutritiva, perfeita para os dias mais frios. A combinação de legumes frescos e cevada cria um prato saudável e aconchegante, ideal para aquecer e satisfazer.",
+      "categoria": "Sopas",
+      "data": "05/03/25",
+      "ingredientes": [
+        "1 xícara de cevada",
+        "2 cenouras cortadas em rodelas",
+        "2 batatas médias cortadas em cubos",
+        "1 abobrinha cortada em cubos",
+        "1 cebola grande picada",
+        "3 dentes de alho picados",
+        "1 talo de aipo picado",
+        "3 tomates sem sementes picados",
+        "2 litros de caldo de legumes",
+        "Sal e pimenta a gosto",
+        "Ervas frescas (como tomilho e salsinha) para temperar"
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Macarrão à Moda Medieval",
+      "descricao": "Inspirado nas tradições medievais, este prato combina massa fresca com ingredientes robustos como carne, queijo e ervas aromáticas. Uma refeição farta e rica em sabores, perfeita para quem busca algo mais rústico e substancial.",
+      "categoria": "Massas",
+      "data": "01/03/2025",
+      "ingredientes": [
+        "500g de macarrão (preferencialmente fettuccine ou talharim)",
+        "300g de carne bovina ou porco picada em pedaços pequenos",
+        "2 colheres de sopa de manteiga",
+        "2 colheres de sopa de azeite de oliva",
+        "1 cebola grande picada",
+        "3 dentes de alho picados",
+        "1 taça de vinho tinto seco",
+        "1 xícara de caldo de carne",
+        "Ervas frescas (como alecrim, sálvia e tomilho)",
+        "Queijo parmesão ralado para polvilhar",
+        "Sal e pimenta a gosto"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Tarte de Amêndoas e Mel",
+      "descricao": "Uma tarte clássica que combina a doçura natural do mel com a crocância das amêndoas. Perfeita para uma sobremesa refinada, trazendo sabores intensos e uma textura única.",
+      "categoria": "Doces",
+      "data": "07/03/25",
+      "ingredientes": [
+        "200g de farinha de trigo",
+        "100g de manteiga gelada em cubos",
+        "2 colheres de sopa de açúcar",
+        "1 ovo",
+        "200g de amêndoas laminadas",
+        "150g de mel",
+        "100g de açúcar mascavo",
+        "100g de creme de leite",
+        "1 colher de chá de essência de baunilha",
+        "1 pitada de sal"
+      ]
     }
   ]
 }
